@@ -1,7 +1,7 @@
 # EDXSO Assignment 2: Build a Claude Automation
-## Founder’s Office – Business Operations Intern Submission Package
+## Founder’s Office Intern Submission Package
 **Candidate:** Abhi Pandey  
-**Role:** Founder’s Office – Business Operations Intern  
+**Role:** Founder’s Office Intern  
 **Submission Target:** [hr@edxso.com](mailto:hr@edxso.com)  
 **Subject Line:** `Assignment 2 – Abhi Pandey`  
 **Execution Context Date:** Friday, 23 October 2026 (Meeting: Thursday, 22 October 2026)  

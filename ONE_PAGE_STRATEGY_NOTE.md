@@ -1,6 +1,6 @@
 # ONE_PAGE_STRATEGY_NOTE.md
 ## Executive Operations Playbook: Weekly Rhythm, Failure Modes & Non-Negotiable Human Guardrails
-**Author:** Abhi Pandey | Founder’s Office – Business Operations Intern  
+**Author:** Abhi Pandey | Founder’s Office Intern  
 **Organization:** EDXSO Technologies  
 **Date:** Friday, 23 October 2026  
 
@@ -11,13 +11,13 @@ To make this automation a reliable operational backbone rather than a one-off ex
 
 ```
 [Thu 5:00 PM: Sync] ──> [Thu 5:30 PM: AI Parsing] ──> [Thu 6:00 PM: Ops Audit] ──> [Fri 9:00 AM: Dispatch]
-  Rough notes taken       Prompt extracts 4 sections    Ops intern audits flags       Founders sign off blockers
+  Rough notes taken       Prompt extracts 4 sections    Founder's Office Intern audits flags       Founders sign off blockers
   in shared doc           via Master Claude Prompt      & updates master tracker      & external drafts are sent
 ```
 
 * **Step 1: Collect Notes & Previous Tracker (Thursday Sync, 30 mins):** During the sync, raw bullet points are recorded in a shared doc without formatting pressure. The previous week's tracker is kept open alongside.
 * **Step 2: AI Parsing (10 seconds):** The raw notes are pasted into Claude with the saved master prompt. The prompt extracts structured tasks, identifies relative dates, and explicitly tags missing information.
-* **Step 3: Manual Ops Audit (15 mins):** The Operations Intern checks every extracted line against the raw notes. Ensure unassigned owners are marked `Unassigned` and missing dates are marked `TBD`. No assumptions are turned into facts.
+* **Step 3: Manual Ops Audit (15 mins):** The Founder's Office Intern checks every extracted line against the raw notes. Ensure unassigned owners are marked `Unassigned` and missing dates are marked `TBD`. No assumptions are turned into facts.
 * **Step 4: Update Shared Spreadsheet (10 mins):** Transfer validated rows into [`EDXSO_Operations_Tracker.xlsx`](./EDXSO_Operations_Tracker.xlsx). Update statuses (`Not started`, `In progress`, `Blocked`, `Done`) and log decisions.
 * **Step 5: Executive Review & Dispatch (Friday morning, 10 mins):** Post the 2-minute founder brief and follow-up drafts to internal chat. Once founders resolve yellow-flagged decisions, dispatch external emails to schools and vendors.
 

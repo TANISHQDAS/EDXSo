@@ -10,7 +10,7 @@
 
 Dear EDXSO Hiring Team & Founders,
 
-Please find attached my submission for **Assignment 2 (Build a Claude Automation)** for the **Founder’s Office – Business Operations Intern** role.
+Please find attached my submission for **Assignment 2 (Build a Claude Automation)** for the **Founder’s Office Intern** role.
 
 The submission is based on the notes from the Founders Sync of Thursday, 22 October 2026, using Friday, 23 October 2026 as the execution date.
 
@@ -39,6 +39,6 @@ I enjoyed working on this assignment and look forward to discussing how I can su
 Warm regards,  
 
 **Abhi Pandey**  
-Applicant — Founder’s Office: Business Operations Intern  
+Applicant — Founder’s Office: Founder’s Office Intern  
 New Delhi, India | abhipandey4631@gmail.com | +91 98XXX XXXXX  
 GitHub: [https://github.com/abhipandey/EDXSo](https://github.com/abhipandey/EDXSo)

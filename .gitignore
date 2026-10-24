@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+output/
+engine_output/
+engine_output_2/
+custom_output/
+.DS_Store
+Thumbs.db
+.~lock*
+*.tmp
+push_*.py
